@@ -4,7 +4,6 @@
 
 2) Riddhi Suteri - Hey, I'm Riddhi, I'm Self taught MERN Stack Developer cum UI Designer who loves open source. Connect with me on [Linkedin](https://www.linkedin.com/in/riddhi-suteri)
 
-
-
+3) Arnav Jaggi - Heyyo,
 
 
