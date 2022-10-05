@@ -8,4 +8,4 @@
 
 4) Rahul Mahato - Hey, I'm Rahul,aspiring Full-Stack web developer and Django Developer, still a learner with the idea of implementing my work and growing into an open-source contributor and a student XD. Connect with me on [Linkedin](https://www.linkedin.com/in/iamrahulmahato)
 
-
+5) Shaikh Minhaj - Hey, I'm a Full Stack Developer, Web Developer, Designer as well as Open Source Contributor, Freelancer etc... Follow me on [GitHub](https://www.github.com/minhaj-313) and you can also connect me on [Linkedin](https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/)
