@@ -11,3 +11,5 @@
 5) Shaikh Minhaj - Hey, I'm a Full Stack Developer, Web Developer, Designer as well as Open Source Contributor, Freelancer etc... Follow me on [GitHub](https://www.github.com/minhaj-313) and you can also connect me on [Linkedin](https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/)
 
 6) Khushi Chauhan - Hello! I'm a Front End Developer. This is my first ever PR.😊
+
+7) Aditi Kumari - Hello, I'm a FrontEnd Developer & also interested in AI/ML.
